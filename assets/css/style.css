@@ -1,0 +1,26 @@
+.hero{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: flex-end;
+    background-image: url(../img/0ab86dfd4bc698ce4f57a8e06a6ca6d1.jpg);
+    background-size: cover;
+}
+
+.content{
+    font-size: 1.4em;
+    font-stretch: expanded;
+    height: 8em;
+    width: 100%;
+    background-color: rgb(202, 34, 34);
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+body{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
